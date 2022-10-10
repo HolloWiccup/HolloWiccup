@@ -1,1 +1,2 @@
-console.log(typeof alert);
+let userName = "Dmitry";
+console.log(typeof userName);

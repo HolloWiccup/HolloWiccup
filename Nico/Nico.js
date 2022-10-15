@@ -10,3 +10,5 @@ if (browser == 'Edge') {
 } else {
     console.log('We hope that this page looks ok!');
 }
+
+//добавляю комментарий и пытаюсь запушить

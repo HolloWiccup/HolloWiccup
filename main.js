@@ -1,1 +1,1 @@
-console.log(typeof alert);
+console.log(typeof 2);
